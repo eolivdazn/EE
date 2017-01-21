@@ -1,4 +1,4 @@
-# cucumberExercise
+# Equal Experts Exercise
 
 ### Technologies
 - Cucumber
